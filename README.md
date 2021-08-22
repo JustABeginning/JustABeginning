@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JustABeginning
-- 👀 I’m interested in coding, exploring new wonders
+- 👀 I’m interested in coding and opensource community
 - 🌱 I’m currently learning Electrical Engineering
 - 📫 How to reach me : jab.askme@gmail.com
 <!---
