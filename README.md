@@ -8,8 +8,9 @@
 <!-- markdownlint-enable -->
 
 - 👋 Hi, I’m **@JustABeginning**
-- 👀 Interested in coding and opensource
+- 👀 Interested in coding & opensource
 - 🎓 A noob in Electrical Engineering
+- :computer: Android Engineer, Java Developer
 
 <!-- markdownlint-disable MD013 -->
 <!---
@@ -22,4 +23,4 @@ You can click the Preview link to take a look at your changes.
 
 [![CoderJAB's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustABeginning&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/JustABeginning#JAB) -->
 
-[![CoderJAB's GitHub Streak](https://streak-stats.demolab.com/?user=JustABeginning&theme=radical)](https://github.com/JustABeginning#JAB)
+<!-- [![CoderJAB's GitHub Streak](https://streak-stats.demolab.com/?user=JustABeginning&theme=radical)](https://github.com/JustABeginning#JAB) -->
