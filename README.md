@@ -18,6 +18,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <!-- markdownlint-enable -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustABeginning&layout=compact&theme=dracula)](https://github.com/JustABeginning#JAB)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustABeginning&layout=compact&theme=dracula)](https://github.com/JustABeginning#JAB)
 
-[![CoderJAB's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustABeginning&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/JustABeginning#JAB)
+[![CoderJAB's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustABeginning&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/JustABeginning#JAB) -->
+
+[![CoderJAB's GitHub Streak](https://streak-stats.demolab.com/?user=JustABeginning&theme=radical)](https://github.com/JustABeginning#JAB)
