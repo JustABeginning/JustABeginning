@@ -11,6 +11,7 @@
 - 👀 Interested in coding & opensource
 - 🎓 A noob in Electrical Engineering
 - :computer: Android Engineer, Java Developer
+- :link: [JustABeginning.github.io](https://justabeginning.github.io/)
 
 <!-- markdownlint-disable MD013 -->
 <!---
